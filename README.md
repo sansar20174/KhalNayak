@@ -11,7 +11,7 @@ Course: Programming for Problem Solving using Python
 Assignment - 01 : Daily Calories Tracker
 ---
 
-#🥗 Daily Calories Tracker
+# 🥗 Daily Calories Tracker
 
 A simple Python program that helps users track their daily calorie intake.
 This project is ideal for beginners learning Python basics such as variables, loops, functions, and file handling.
